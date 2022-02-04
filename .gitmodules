@@ -1,0 +1,3 @@
+[submodule "deep_motion_mag"]
+	path = deep_motion_mag
+	url = https://github.com/12dmodel/deep_motion_mag.git
